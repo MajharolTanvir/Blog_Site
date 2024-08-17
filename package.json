@@ -16,6 +16,7 @@
     "react-dom": "18.2.0"
   },
   "main": "index.js",
-  "author": "Majharul Tanvir <majharul5456@gmail.com>",
-  "license": "MIT"
+  "author": "Majharul Tanvir",
+  "license": "MIT",
+  "repository": "https://github.com/MajharolTanvir/Blog_Site.git"
 }
